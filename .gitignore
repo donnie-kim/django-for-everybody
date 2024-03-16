@@ -1,2 +1,4 @@
 notebook.ipynb
 course_files
+__pycache__/
+__pycache__
